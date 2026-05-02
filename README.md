@@ -1,6 +1,8 @@
 # PicoLearn
 Small Projects for Pico 2
 
+Most of these projects are following: https://www.youtube.com/watch?v=Ic4ExTusoTw
+
 ## Connect USB using WSL
 REF: https://learn.microsoft.com/en-us/windows/wsl/connect-usb
 - usbipd list
